@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,U as l}from"./chunks/framework.1bc6aac7.js";const F=JSON.parse('{"title":"样式和颜色控制","description":"","frontmatter":{},"headers":[],"relativePath":"src/03-basicColor.md"}'),p={name:"src/03-basicColor.md"},o=l("",57),e=[o];function t(c,r,C,y,i,A){return a(),n("div",null,e)}const d=s(p,[["render",t]]);export{F as __pageData,d as default};
